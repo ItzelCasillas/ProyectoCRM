@@ -1,0 +1,143 @@
+#logo{
+	height: 45px;
+	/*width: 90px;*/
+}
+#logo2{
+	width: 110px;
+	height: 45px;
+	/*width: 90px;*/
+}
+
+#cuerpo{
+	padding-top: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#header{
+	margin-top: 10px;
+	margin-left: 65px;
+}
+
+#Nombre, #email{
+	margin-left: 70px;
+	width: 20%;
+}
+
+#btnRegistrar1{
+	float: left;
+	background-color: #1fcaa7;
+	border-color: transparent;
+}
+
+ #fechaN, #email, #ocupacion, #lblFecha, #btnRegistrar1{
+	margin-left: 70px;
+}
+
+#sexo{
+	margin-left: 26px;
+	width: 5%;
+}
+
+#menu{
+	 opacity: 0.6;
+	 position: relative;
+	 z-index: 3;
+}
+
+#fechaN{
+	background-color: transparent;
+	border-radius: 6px;
+	border: solid 2px rgba(255, 255, 255, 0.35);
+	height: 2.7em;
+	/*opacity: 0.2;*/
+}
+
+
+#selectOcupacion{
+	width: 20%;
+	margin-left: 70px;
+}
+
+#footer1{
+	margin-left: 3%;
+}
+
+#jumbo{
+	margin-top: 90px;
+}
+
+#buscar{
+	margin-right: 40px;
+}
+
+#btnRegistrar{
+	float: right;
+	background-color: #1fcaa7;
+	border-color: transparent;
+}
+
+#btnCancelar{
+	float: right;  
+	margin-right: 20px;
+}
+
+#btnBuscar{
+	background-color: #424242;;
+	border-color: transparent;
+	/*position: relative;*/
+	margin-left: 35px;
+	height: 38px;
+}
+
+#selectFecha, #selectSexo, #selectOcupacion2, #N, #C{
+	background: transparent;
+	border-radius: 6px;
+	border: solid 2px rgba(255, 255, 255, 0.35);
+	height: 38px;
+}
+
+#selectFiltro{
+	width: 105%;
+	float: left;
+	margin-bottom: 3px;
+	background: transparent;
+	border: solid 2px rgba(255, 255, 255, 0.35);
+}
+
+#selectFiltro2{
+	width: 105%;
+	float: left;
+	margin-left: 20px;
+	margin-bottom: 3px;
+	background: transparent;
+	border: solid 2px rgba(255, 255, 255, 0.35);
+}
+
+#divFiltro{
+	display: inline-block;
+}
+
+#selectPromo{
+	width: 105%;
+	margin-bottom: 3px;
+	background: transparent;
+	border: solid 2px rgba(255, 255, 255, 0.35);
+}
+
+#btnEnviar{
+	background-color: #1fcaa7;
+	border-color: transparent;
+	/*position: relative;*/
+	margin-left: 15px;
+	height: 38px;
+}
+
+#formPromo{
+	padding-right: 30px;
+}
+
+
+
+
+
