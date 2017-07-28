@@ -37,7 +37,6 @@
 			<option value="4">Otro</option>
 		</select>
 	</div>
-	
 	<div> <br>
 		<button type:"submit" class="btn btn-primary" id="btnRegistrar">Registrar</button>
 		<a href="{{url('/')}}" class="btn btn-danger" id="btnCancelar">Cancelar</a>

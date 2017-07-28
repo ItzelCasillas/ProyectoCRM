@@ -19,7 +19,6 @@
 		<option value="4">Otro</option>
 	</select>
         </div>
-       <!--  <button type="submit" class="btn btn-default" id="btnBuscar">Buscar</button> -->
 
         <div class="form-group" >
     
@@ -78,9 +77,6 @@
 				<a href="{{url('/editarCliente')}}/{{$c->id}}" class="btn btn-xs btn-primary">
 					<span class="glyphicon glyphicon-pencil" aria-hidden=true></span>
 				</a>
-				<!-- <a href="{{url('/enviarPromo')}}/{{$c->id}}" class="btn btn-xs btn-default">
-					<span class="glyphicon glyphicon-envelope" aria-hidden=true></span>
-				</a> -->
 				<a href="{{url('/eliminarCliente')}}/{{$c->id}}" class="btn btn-xs btn-danger">
 					<span class="glyphicon glyphicon-trash" aria-hidden=true></span>
 				</a>
@@ -104,5 +100,4 @@
         </div>
         <button type="submit" class="btn btn-default" id="btnEnviar">Enviar</button>
 </form>
-
 @stop

@@ -20,8 +20,7 @@
 	</div>
 	<div class="form-group">
 		<label for="fecha_termino">Fecha de termino:</label>
-		<input type="date" class="form-control" name="fecha_termino" required id="selectFecha">
-		
+		<input type="date" class="form-control" name="fecha_termino" required id="selectFecha">		
 	</div>
 	<div> <br>
 		<button type:"submit" class="btn btn-primary" id="btnRegistrar">Registrar</button>
